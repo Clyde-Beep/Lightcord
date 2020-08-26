@@ -11,6 +11,9 @@
 [![ETH](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phorcysed/cryptodonate/master/badges/ethereum.json&style=flat-square)](https://unixkeys.github.io/cryptodonate/eth.html?address=0xEFE45F22Ee844bf2Ba0E4d853FA0bC8c028fAfFe&note=https://github.com/phorcysed)
 [![LTC](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phorcysed/cryptodonate/master/badges/litecoin.json&style=flat-square)](https://unixkeys.github.io/cryptodonate/ltc.html?address=LNTmfMjHJgTHaB7rj8ZuWWuU1XkP2YeGCA&note=https://github.com/phorcysed)
 ---
+# Neoncord
+just lightcord with diffrent logo :/ go to the og [project](https://github.com/Lightcord/Lightcord)
+
 # Lightcord
 A simple - customizable - Discord Client
 
